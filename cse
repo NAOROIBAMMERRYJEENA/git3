@@ -1,3 +1,4 @@
+pgm to add two nos
 #include<stdio.h>
 int main()
 { 
